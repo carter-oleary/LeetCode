@@ -1,0 +1,14 @@
+C:\Users\Carter\source\repos\LeetCode345\bin\Debug\net8.0\LeetCode345.exe
+C:\Users\Carter\source\repos\LeetCode345\bin\Debug\net8.0\LeetCode345.deps.json
+C:\Users\Carter\source\repos\LeetCode345\bin\Debug\net8.0\LeetCode345.runtimeconfig.json
+C:\Users\Carter\source\repos\LeetCode345\bin\Debug\net8.0\LeetCode345.dll
+C:\Users\Carter\source\repos\LeetCode345\bin\Debug\net8.0\LeetCode345.pdb
+C:\Users\Carter\source\repos\LeetCode345\obj\Debug\net8.0\LeetCode345.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carter\source\repos\LeetCode345\obj\Debug\net8.0\LeetCode345.AssemblyInfoInputs.cache
+C:\Users\Carter\source\repos\LeetCode345\obj\Debug\net8.0\LeetCode345.AssemblyInfo.cs
+C:\Users\Carter\source\repos\LeetCode345\obj\Debug\net8.0\LeetCode345.csproj.CoreCompileInputs.cache
+C:\Users\Carter\source\repos\LeetCode345\obj\Debug\net8.0\LeetCode345.dll
+C:\Users\Carter\source\repos\LeetCode345\obj\Debug\net8.0\refint\LeetCode345.dll
+C:\Users\Carter\source\repos\LeetCode345\obj\Debug\net8.0\LeetCode345.pdb
+C:\Users\Carter\source\repos\LeetCode345\obj\Debug\net8.0\LeetCode345.genruntimeconfig.cache
+C:\Users\Carter\source\repos\LeetCode345\obj\Debug\net8.0\ref\LeetCode345.dll
