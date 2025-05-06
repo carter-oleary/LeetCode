@@ -1,0 +1,15 @@
+E:\GitHub\LeetCode\LeetCode66\bin\Debug\net8.0\LeetCode66.exe
+E:\GitHub\LeetCode\LeetCode66\bin\Debug\net8.0\LeetCode66.deps.json
+E:\GitHub\LeetCode\LeetCode66\bin\Debug\net8.0\LeetCode66.runtimeconfig.json
+E:\GitHub\LeetCode\LeetCode66\bin\Debug\net8.0\LeetCode66.dll
+E:\GitHub\LeetCode\LeetCode66\bin\Debug\net8.0\LeetCode66.pdb
+E:\GitHub\LeetCode\LeetCode66\obj\Debug\net8.0\LeetCode66.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\LeetCode\LeetCode66\obj\Debug\net8.0\LeetCode66.AssemblyInfoInputs.cache
+E:\GitHub\LeetCode\LeetCode66\obj\Debug\net8.0\LeetCode66.AssemblyInfo.cs
+E:\GitHub\LeetCode\LeetCode66\obj\Debug\net8.0\LeetCode66.csproj.CoreCompileInputs.cache
+E:\GitHub\LeetCode\LeetCode66\obj\Debug\net8.0\LeetCode66.sourcelink.json
+E:\GitHub\LeetCode\LeetCode66\obj\Debug\net8.0\LeetCode66.dll
+E:\GitHub\LeetCode\LeetCode66\obj\Debug\net8.0\refint\LeetCode66.dll
+E:\GitHub\LeetCode\LeetCode66\obj\Debug\net8.0\LeetCode66.pdb
+E:\GitHub\LeetCode\LeetCode66\obj\Debug\net8.0\LeetCode66.genruntimeconfig.cache
+E:\GitHub\LeetCode\LeetCode66\obj\Debug\net8.0\ref\LeetCode66.dll
