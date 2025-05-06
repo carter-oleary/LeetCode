@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\GitHub\\LeetCode\\LeetCode26\\",
+  "WorkspaceRootPath": "E:\\GitHub\\LeetCode\\LeetCode27\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD672AE7-9BE5-413A-B3DB-572B8A3BF9C7}|LeetCode26.csproj|e:\\github\\leetcode\\leetcode26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD672AE7-9BE5-413A-B3DB-572B8A3BF9C7}|LeetCode26.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{280EE94A-FD3F-4F10-A0BF-391C7BA12202}|LeetCode27.csproj|e:\\github\\leetcode\\leetcode27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280EE94A-FD3F-4F10-A0BF-391C7BA12202}|LeetCode27.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\GitHub\\LeetCode\\LeetCode26\\Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\LeetCode\\LeetCode27\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\GitHub\\LeetCode\\LeetCode26\\Program.cs",
+              "ToolTip": "E:\\GitHub\\LeetCode\\LeetCode27\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:24:22.794Z",
+              "WhenOpened": "2025-05-06T20:44:54.124Z",
               "EditorCaption": ""
             }
           ]

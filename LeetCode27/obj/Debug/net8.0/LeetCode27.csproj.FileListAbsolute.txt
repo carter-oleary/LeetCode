@@ -1,0 +1,15 @@
+E:\GitHub\LeetCode\LeetCode27\bin\Debug\net8.0\LeetCode27.exe
+E:\GitHub\LeetCode\LeetCode27\bin\Debug\net8.0\LeetCode27.deps.json
+E:\GitHub\LeetCode\LeetCode27\bin\Debug\net8.0\LeetCode27.runtimeconfig.json
+E:\GitHub\LeetCode\LeetCode27\bin\Debug\net8.0\LeetCode27.dll
+E:\GitHub\LeetCode\LeetCode27\bin\Debug\net8.0\LeetCode27.pdb
+E:\GitHub\LeetCode\LeetCode27\obj\Debug\net8.0\LeetCode27.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\LeetCode\LeetCode27\obj\Debug\net8.0\LeetCode27.AssemblyInfoInputs.cache
+E:\GitHub\LeetCode\LeetCode27\obj\Debug\net8.0\LeetCode27.AssemblyInfo.cs
+E:\GitHub\LeetCode\LeetCode27\obj\Debug\net8.0\LeetCode27.csproj.CoreCompileInputs.cache
+E:\GitHub\LeetCode\LeetCode27\obj\Debug\net8.0\LeetCode27.sourcelink.json
+E:\GitHub\LeetCode\LeetCode27\obj\Debug\net8.0\LeetCode27.dll
+E:\GitHub\LeetCode\LeetCode27\obj\Debug\net8.0\refint\LeetCode27.dll
+E:\GitHub\LeetCode\LeetCode27\obj\Debug\net8.0\LeetCode27.pdb
+E:\GitHub\LeetCode\LeetCode27\obj\Debug\net8.0\LeetCode27.genruntimeconfig.cache
+E:\GitHub\LeetCode\LeetCode27\obj\Debug\net8.0\ref\LeetCode27.dll
