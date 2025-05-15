@@ -1,0 +1,15 @@
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\bin\Debug\net8.0\LeetCode566_ReshapeMatrix.exe
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\bin\Debug\net8.0\LeetCode566_ReshapeMatrix.deps.json
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\bin\Debug\net8.0\LeetCode566_ReshapeMatrix.runtimeconfig.json
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\bin\Debug\net8.0\LeetCode566_ReshapeMatrix.dll
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\bin\Debug\net8.0\LeetCode566_ReshapeMatrix.pdb
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\obj\Debug\net8.0\LeetCode566_ReshapeMatrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\obj\Debug\net8.0\LeetCode566_ReshapeMatrix.AssemblyInfoInputs.cache
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\obj\Debug\net8.0\LeetCode566_ReshapeMatrix.AssemblyInfo.cs
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\obj\Debug\net8.0\LeetCode566_ReshapeMatrix.csproj.CoreCompileInputs.cache
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\obj\Debug\net8.0\LeetCode566_ReshapeMatrix.sourcelink.json
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\obj\Debug\net8.0\LeetCode566_ReshapeMatrix.dll
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\obj\Debug\net8.0\refint\LeetCode566_ReshapeMatrix.dll
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\obj\Debug\net8.0\LeetCode566_ReshapeMatrix.pdb
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\obj\Debug\net8.0\LeetCode566_ReshapeMatrix.genruntimeconfig.cache
+E:\GitHub\LeetCode\LeetCode566_ReshapeMatrix\obj\Debug\net8.0\ref\LeetCode566_ReshapeMatrix.dll
