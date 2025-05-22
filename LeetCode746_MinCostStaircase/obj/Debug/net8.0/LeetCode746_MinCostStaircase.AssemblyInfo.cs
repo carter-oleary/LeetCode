@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode746_MinCostStaircase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61ac6dfcd5bece603985b16f3b87b6e9d3c64473")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f25e44f0f383a8766fa30b211afe2d1aa5fa587")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode746_MinCostStaircase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode746_MinCostStaircase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

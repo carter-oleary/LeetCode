@@ -1,6 +1,7 @@
 ﻿Staircase sc = new Staircase();
-var arr = new int[] { 1, 2, 3, 4, 5, 6 };
+var arr = new int[] { 5, 2, 3, 12, 20, 3, 1 };
 int min = sc.MinCostClimbingStairs(arr);
+Console.WriteLine(min);
 
 public class Staircase
 {
