@@ -1,7 +1,7 @@
 ﻿namespace LeetCode746_UnitTest
 {
     [TestClass]
-    public sealed class Test1
+    public sealed class Calculate_Min_Staircase_Value
     {
         private const int Expected = 17;
         [TestMethod]
