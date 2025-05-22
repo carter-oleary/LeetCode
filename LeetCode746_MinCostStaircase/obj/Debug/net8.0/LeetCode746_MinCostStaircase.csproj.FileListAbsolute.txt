@@ -1,0 +1,15 @@
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\obj\Debug\net8.0\LeetCode746_MinCostStaircase.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\obj\Debug\net8.0\LeetCode746_MinCostStaircase.AssemblyInfoInputs.cache
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\obj\Debug\net8.0\LeetCode746_MinCostStaircase.AssemblyInfo.cs
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\obj\Debug\net8.0\LeetCode746_MinCostStaircase.csproj.CoreCompileInputs.cache
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\obj\Debug\net8.0\LeetCode746_MinCostStaircase.sourcelink.json
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\bin\Debug\net8.0\LeetCode746_MinCostStaircase.exe
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\bin\Debug\net8.0\LeetCode746_MinCostStaircase.deps.json
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\bin\Debug\net8.0\LeetCode746_MinCostStaircase.runtimeconfig.json
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\bin\Debug\net8.0\LeetCode746_MinCostStaircase.dll
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\bin\Debug\net8.0\LeetCode746_MinCostStaircase.pdb
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\obj\Debug\net8.0\LeetCode746_MinCostStaircase.dll
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\obj\Debug\net8.0\refint\LeetCode746_MinCostStaircase.dll
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\obj\Debug\net8.0\LeetCode746_MinCostStaircase.pdb
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\obj\Debug\net8.0\LeetCode746_MinCostStaircase.genruntimeconfig.cache
+E:\GitHub\LeetCode\LeetCode746_MinCostStaircase\obj\Debug\net8.0\ref\LeetCode746_MinCostStaircase.dll

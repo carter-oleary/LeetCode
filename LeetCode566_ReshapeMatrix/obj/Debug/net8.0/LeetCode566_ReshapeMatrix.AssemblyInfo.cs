@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode566_ReshapeMatrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+defd9b9c242ef8764e3ac5614055c1a23fa5b38b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61ac6dfcd5bece603985b16f3b87b6e9d3c64473")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode566_ReshapeMatrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode566_ReshapeMatrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
